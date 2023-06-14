@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nitinkanish
 - 👀 I’m interested in Travelling around the Universe
-- 🌱 I’m currently working  Angular, Vue, Ionic and React
+- 🌱 I’m currently working  Javascript, SCSS, Vue, Ionic and React
 - 💞️ I’m looking to collaborate on my projects
 - 📫 How to reach me nitinkanish@gmail.com
 
